@@ -1,3 +1,5 @@
 -Persiapan Desgn
 -Persiapan Template
 -Persipan Hosting / VPS
+-Persiapan uang
+-membuat User Login
